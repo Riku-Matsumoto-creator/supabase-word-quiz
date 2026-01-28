@@ -30,7 +30,7 @@ Web アプリ開発とデータベース連携の理解を目的に制作しま�
 
 以下の URL からアプリを試すことができます。
 
-👉 **https://（ここにあなたの Streamlit Cloud の URL）**
+👉 **https://supabase-word-quiz-nv95kql2tp8oftyub6kd44.streamlit.app/）**
 
 ※ 起動に少し時間がかかる場合があります。
 
