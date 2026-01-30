@@ -30,7 +30,7 @@
 ## 🧪 アプリ試用URL
 以下のURLから、実際にアプリを試すことができます。
 
-👉 ****
+👉 **https://electromagnetism-quiz-app-npuhwy5vwyppp4xjbzdhfp.streamlit.app/**
 
 ---
 
